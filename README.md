@@ -1,1 +1,1 @@
-https://heroku.com/deploy?template=https://github.com/pedro1287/tata
+https://heroku.com/deploy?template=https://github.com/hollow-000/uploader-mod
